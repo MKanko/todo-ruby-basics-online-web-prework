@@ -9,8 +9,7 @@ end
 
 def argue(x)
   x 
-  
-end
+end 
 
 def greeting
 
