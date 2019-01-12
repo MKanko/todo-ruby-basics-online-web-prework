@@ -24,7 +24,7 @@ def last_evaluated_value
   return phrase 
 end
 
-def pizza_party(topping, default_topping = "cheese")
+def pizza_party(topping = "cheese")
   
   topping 
 
