@@ -5,7 +5,6 @@ end
 def assign_variable(value)
   name = value
   value 
-  
 end
 
 def argue
