@@ -17,7 +17,6 @@ end
 def return_a_value  
   phrase = "Nice" 
   phrase 
-  
 end
 
 
