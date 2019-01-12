@@ -16,7 +16,7 @@ end
 
 def return_a_value(x)
   x = "Nice"
-  x
+  
 
 end
 
